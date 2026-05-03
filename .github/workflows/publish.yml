@@ -22,8 +22,8 @@ jobs:
       - name: Build CurseForge Zip
         run: packwiz curseforge export
 
-      - name: Upload to CurseForge
-        uses: Kir-Syg/upload-curseforge-modpack@v1
+      - name: Publish to CurseForge
+        uses: Kir-Antipov/mc-publish@v3.3
         with:
           project-id: '1526879'  # Found on your CurseForge project overview page
           token: ${{ secrets.CURSEFORGE_TOKEN }}
