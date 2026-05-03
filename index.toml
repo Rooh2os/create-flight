@@ -2,11 +2,16 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "b15d245072fb5ae312972a63820a15715dd7bb65ece93b39a47ada067c518f69"
+hash = "9b9dd4f49af8d72239e61679e539fe11f08fd87e166129455aa7d9c5580d2a8e"
 
 [[files]]
 file = "README.md"
 hash = "8bfd3f3e13cf051cbdc63eefb25cd00cf2ce3a3e4fbf3e43e7fc20530fb08095"
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "925868d37e4696c59df77549f9e64207780d4655219fd5cfc0b187df302d45f8"
+metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -194,6 +199,16 @@ hash = "e2c62e9bac7f145ad9b2e72b75fbe741836a9491877ff09e66c764a5649ff40d"
 metafile = true
 
 [[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "74002ff7a19e79e3ef8ac14777f252072641ffc9f6e73125d8f5d7be32a48a7b"
+metafile = true
+
+[[files]]
+file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
+hash = "f999b1b6a84e63a44ebbbe79164217f1327a1cc823d80da81e960faefdc1277c"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "0ad37c7e88d98bb14dda3b148c0c263ea807ebecd729dcdb7f2c307a5e6cd3fa"
 metafile = true
@@ -201,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
 metafile = true
 
 [[files]]
@@ -319,6 +339,11 @@ hash = "6a2693aaab21ce7c32b958b81ee5e9cad0d014cdf68c067049b2fc652159d9d1"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "f482a9e36c6644c286bab5b0a45da12d535eb82851c2a4a1125bde7476379e5d"
 metafile = true
@@ -329,8 +354,18 @@ hash = "37e62ad6e7cde4983ac6c4a4173e7332e0b157f080dd71d615a9aa7423c985d4"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "0c9a3dcfc197e1613dc03754a6deaec58c728436dce4fb7009f7c290e125bfae"
+metafile = true
+
+[[files]]
 file = "mods/hypertubes.pw.toml"
 hash = "317890a10a1ccd7d28cfbcdce16708e133a97c3a49d5f8c86a095e324e044a97"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
 metafile = true
 
 [[files]]
@@ -359,6 +394,11 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "f68d6d20d2f1ae3edb429736a46e63fb0a7c3828d876b927431697dd289ab138"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "5345bb641d6b9307c6a05f12885315537386519476bd2aee79d9fd1181268a7a"
 metafile = true
@@ -384,8 +424,18 @@ hash = "fb88337b7840e3c06138a63aca65fbaedf6bb8aaca6fd91bc8154d3c27db7846"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "31c3ae5e39797bb91e2b17a13d0fbf2cf5b5d87f586441020b12f7fd6e3c607a"
+metafile = true
+
+[[files]]
 file = "mods/measurements.pw.toml"
 hash = "5634fdbd968dfd9fd3bce683f3474d34dc5d7753ed87574d713c15b41f88e8f9"
+metafile = true
+
+[[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
 metafile = true
 
 [[files]]
@@ -486,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "900f983711a7bcdd737e06a3d2c532b3deff44f16eb23ddca5f14bd418c94d1a"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "29040c66fab3ecabeaf5ee7afe4532dac3c019db87194a07f68352a77b917f3b"
 metafile = true
 
 [[files]]
