@@ -37,6 +37,10 @@ jobs:
           
           # Use the filename we just saved in the build step
           files: "./${{ steps.build.outputs.filename }}"
+
+          # Manually define the required metadata for a modpack
+          curseforge-loaders: 'neoforge'
+          curseforge-game-versions: '1.21.1'
           
           # This name will appear on the CurseForge website
           name: "Create Flight ${{ steps.build.outputs.version }}"
