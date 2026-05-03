@@ -43,5 +43,5 @@ jobs:
           curseforge-game-versions: '1.21.1'
           
           # This name will appear on the CurseForge website
-          name: "Create Flight ${{ steps.build.outputs.version }}"
+          name: "create-flight-${{ steps.build.outputs.version }}.zip"
           changelog: ${{ steps.changelog.outputs.notes }}
