@@ -1,0 +1,31 @@
+name: Publish Modpack
+on:
+  push:
+    branches:
+      - main  # Runs every time you push to the main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '>=1.21'
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Build CurseForge Zip
+        run: packwiz curseforge export
+
+      - name: Upload to CurseForge
+        uses: Kir-Syg/upload-curseforge-modpack@v1
+        with:
+          project-id: '1526879'  # Found on your CurseForge project overview page
+          token: ${{ secrets.CURSEFORGE_TOKEN }}
+          modpack-path: './create-flight-*.zip'  # Ensure this matches your exported zip name
+          changelog: 'Automatically updated via GitHub Actions.'
