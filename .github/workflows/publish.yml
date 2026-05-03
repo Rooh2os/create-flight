@@ -32,8 +32,14 @@ jobs:
       - name: Generate Changelog
         id: changelog
         run: |
-          # Grabs the last 5 commit messages to use as a changelog
-          echo "notes=$(git log -5 --pretty=format:'- %s' --no-merges)" >> $GITHUB_OUTPUT
+          # Create a random delimiter
+          EOF=$(dd if=/dev/urandom bs=15 count=1 2>/dev/null | base64)
+          echo "notes<<$EOF" >> $GITHUB_OUTPUT
+          # Capture the git log and append it
+          git log -5 --pretty=format:'- %s' --no-merges >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "$EOF" >> $GITHUB_OUTPUT
+
 
       - name: Publish to CurseForge
         uses: Kir-Antipov/mc-publish@v3.3
