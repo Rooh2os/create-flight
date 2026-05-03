@@ -2,7 +2,7 @@ name: Publish Modpack
 on:
   push:
     branches:
-      - main  # Runs every time you push to the main branch
+      - main
 
 jobs:
   build:
@@ -20,12 +20,21 @@ jobs:
         run: go install github.com/packwiz/packwiz@latest
 
       - name: Build CurseForge Zip
-        run: packwiz curseforge export
+        # Forcing a static name makes the 'files' field below easier to manage
+        run: packwiz curseforge export -o modpack.zip
+
+      - name: Generate Changelog
+        id: changelog
+        run: |
+          # Gets all commit titles from the last tag to the current commit
+          echo "notes=$(git log $(git describe --tags --abbrev=0 2>/dev/null || git rev-list --max-parents=0 HEAD)..HEAD --pretty=format:'- %s' --no-merges)" >> $GITHUB_OUTPUT
 
       - name: Publish to CurseForge
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          project-id: '1526879'  # Found on your CurseForge project overview page
-          token: ${{ secrets.CURSEFORGE_TOKEN }}
-          modpack-path: './create-flight-*.zip'  # Ensure this matches your exported zip name
-          changelog: 'Automatically updated via GitHub Actions.'
+          curseforge-id: '1526879' 
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+          files: './create-flight-*.zip'
+          name: "Create Flight"
+          # Use the notes generated in the previous step
+          changelog: ${{ steps.changelog.outputs.notes }}
