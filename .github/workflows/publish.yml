@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Important: allows git log to see previous commits
 
       - name: Setup Go
         uses: actions/setup-go@v5
@@ -22,26 +24,24 @@ jobs:
       - name: Build CurseForge Zip
         id: build
         run: |
-          # Use packwiz to find the version from pack.toml
           VERSION=$(grep '^version' pack.toml | cut -d '"' -f 2)
-          # Export with the specific versioned name
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
           packwiz curseforge export -o "create-flight-${VERSION}.zip"
-          # Save the filename for the next step
           echo "filename=create-flight-${VERSION}.zip" >> $GITHUB_OUTPUT
+
+      - name: Generate Changelog
+        id: changelog
+        run: |
+          # Grabs the last 5 commit messages to use as a changelog
+          echo "notes=$(git log -5 --pretty=format:'- %s' --no-merges)" >> $GITHUB_OUTPUT
 
       - name: Publish to CurseForge
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: '1526879' 
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
-          
-          # Use the filename we just saved in the build step
           files: "./${{ steps.build.outputs.filename }}"
-
-          # Manually define the required metadata for a modpack
+          name: "Create Flight-${{ steps.build.outputs.version }}"
           curseforge-loaders: 'neoforge'
           curseforge-game-versions: '1.21.1'
-          
-          # This name will appear on the CurseForge website
-          name: "create-flight-${{ steps.build.outputs.version }}.zip"
           changelog: ${{ steps.changelog.outputs.notes }}
