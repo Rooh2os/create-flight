@@ -1,6 +1,20 @@
 # Create Flight
 A group of mods to play around with the recently published Create Aeronautics. Along with this there's building tools, Ultimine features, and backported vanilla features.
 
+## Dev build instructions
+1. Download the dev branch from source
+1. Download [packwiz](https://nightly.link/packwiz/packwiz/workflows/go/main/Windows%2064-bit.zip)
+1. Add packwiz to your PATH
+1. Use `packwiz cf export` in where you downloaded dev to export the pack for curseforge
+1. Import the newly generated .zip into curseforge
+
+## Modrinth build instructions
+1. Download the dev branch from source
+1. Download [packwiz](https://nightly.link/packwiz/packwiz/workflows/go/main/Windows%2064-bit.zip)
+1. Add packwiz to your PATH
+1. Use `packwiz mr export` in where you downloaded dev to export the pack for modrinth
+1. Import the newly generated .zip into modrinth
+
 ## Mods:
 - [3d-Skin-Layers [1.11.1]](https://www.curseforge.com/projects/521480) by tr7zw
 - [Advancement Plaques [1.6.8]](https://www.curseforge.com/projects/499826) by Grend

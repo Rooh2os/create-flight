@@ -6,7 +6,7 @@ hash = "9b9dd4f49af8d72239e61679e539fe11f08fd87e166129455aa7d9c5580d2a8e"
 
 [[files]]
 file = "README.md"
-hash = "a1750d6c1ac4da706035ad59e93b1865ed45183765afa05bbcbd39bf9aebbc93"
+hash = "d604c7ee6df79001b7cfad5f9f03a8bc2aeef698ee3577e50e38e633718f8376"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -1412,3 +1412,7 @@ hash = "033ffd179bdff9f41794afd44b8184821bb71701f1d78b2ae36458a8c10a6a97"
 [[files]]
 file = "overrides/kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "publish.ps1"
+hash = "d07a0c04dc9b1160fe421cf99643ea9825f4e4bebd982db9869062b06bbd5de1"
