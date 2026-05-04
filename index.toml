@@ -6,12 +6,11 @@ hash = "9b9dd4f49af8d72239e61679e539fe11f08fd87e166129455aa7d9c5580d2a8e"
 
 [[files]]
 file = "README.md"
-hash = "4e72463411f04f84bb8f630ac16ba62f8480c614aba3cf843d5b563348b34305"
+hash = "7857315b694f1e15a015bc61af1294500ed17b3b3dce184afe775eda62e9140d"
 
 [[files]]
-file = "mods/adorable-hamster-pets.pw.toml"
-hash = "6a49d2b1692246763a9f21e93b429d66620bb9f7aac0ccb12852c2041dba7486"
-metafile = true
+file = "modpackdependencyvisulizer.json"
+hash = "5fdd33c51dccc00d47937ce7967620cbdbb78b289db2f71d3f6624957103530d"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -49,23 +48,8 @@ hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
 metafile = true
 
 [[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "55fe1f1a0b72abf4b697b3e0d8f5449e590bb519d26a29e6eeac049161003a34"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
-metafile = true
-
-[[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
-metafile = true
-
-[[files]]
-file = "mods/botany-pots.pw.toml"
-hash = "9f3f411cf253c8d92c146a4fc8a473c47038171f596e8810a930285bf5f664a8"
 metafile = true
 
 [[files]]
@@ -116,11 +100,6 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "2bbc57f2edb0c4045b2b46f0126e109d9a8cf72153cd7084cb78f6e3311adb38"
-metafile = true
-
-[[files]]
-file = "mods/collective.pw.toml"
-hash = "3c5f7edea027f0da74058bdb40b4e333d41df0246c1a8ebcf7df160c34565402"
 metafile = true
 
 [[files]]
@@ -184,11 +163,6 @@ hash = "2c6621f2d82a9be0240bbf9c0a416f7dc79edd63636f6d1b869c93ca5f59bade"
 metafile = true
 
 [[files]]
-file = "mods/create-chocolate-fountain.pw.toml"
-hash = "66a52b090659399b5673f299d25b6bbc408d301e78ffee7dcf37fe3f61040c82"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "3b12e639fef9a821167533b31a54df9af083fd89a8a30e36607cbb24015c79e7"
 metafile = true
@@ -224,21 +198,6 @@ hash = "ec65f48e74ac39be1d5a99e0bc74fd1013abd9efcf361e52043990ff5fba4c2b"
 metafile = true
 
 [[files]]
-file = "mods/create-more-chocolate.pw.toml"
-hash = "e2c62e9bac7f145ad9b2e72b75fbe741836a9491877ff09e66c764a5649ff40d"
-metafile = true
-
-[[files]]
-file = "mods/create-more-package-couriers.pw.toml"
-hash = "87c909c55b77f97c10699495e2897f6ba74cc4e6ccb6a3929029d757f00b0dfb"
-metafile = true
-
-[[files]]
-file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
-hash = "f999b1b6a84e63a44ebbbe79164217f1327a1cc823d80da81e960faefdc1277c"
-metafile = true
-
-[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "b8761149eda05aa09fa90b3a8e0cf797faba43c08e42557cafcd55baa2c20cb3"
 metafile = true
@@ -254,11 +213,6 @@ hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
 metafile = true
 
 [[files]]
-file = "mods/cryonicconfig.pw.toml"
-hash = "4bd3667f570f82fb1480f173ffb6259876f4620de3a085fb8d7a442d214c5b51"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
 metafile = true
@@ -266,11 +220,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
-metafile = true
-
-[[files]]
-file = "mods/daily-dad.pw.toml"
-hash = "f849dc24e126d8c4c9890cd91e4093286e6fd7d62a8ad989402eaed7d729651f"
 metafile = true
 
 [[files]]
@@ -291,11 +240,6 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "7b9de2a18c345023ca5725f2ae3412f5f39bec6332ff862a018dd1b517af68cc"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
 metafile = true
 
 [[files]]
@@ -364,11 +308,6 @@ hash = "37156c1ac4294e61e24f5a14cd743297299a2ecc202f04a4d26c966e20a3ef92"
 metafile = true
 
 [[files]]
-file = "mods/full-brightness-toggle.pw.toml"
-hash = "a93b4f53bcc1af49273bf8d76b506c9b38207e7a5853d055c7fb47db4cb80a1a"
-metafile = true
-
-[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "0092f83b6663191fb947110c2b51a5213daea995da831d7de0a769cf4c353cd8"
 metafile = true
@@ -376,11 +315,6 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "6a2693aaab21ce7c32b958b81ee5e9cad0d014cdf68c067049b2fc652159d9d1"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
 metafile = true
 
 [[files]]
@@ -396,11 +330,6 @@ metafile = true
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "37e62ad6e7cde4983ac6c4a4173e7332e0b157f080dd71d615a9aa7423c985d4"
-metafile = true
-
-[[files]]
-file = "mods/guard-villagers.pw.toml"
-hash = "0c9a3dcfc197e1613dc03754a6deaec58c728436dce4fb7009f7c290e125bfae"
 metafile = true
 
 [[files]]
@@ -529,11 +458,6 @@ hash = "3fa9d58d6bbbd017e469b0c3abeddcfee722a0103b5c6590ac966dd8fb604992"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
@@ -541,11 +465,6 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "cc52d0f23ac79d4a68ac0901d760122b5a79a24c96fc363d70e9193b6eb8d018"
-metafile = true
-
-[[files]]
-file = "mods/prickle.pw.toml"
-hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
@@ -709,11 +628,6 @@ hash = "4acd0daed52188d2ccd8277953e697113aebf89c1bd6b1049a1e859f8eb26ce3"
 metafile = true
 
 [[files]]
-file = "mods/trade-cycling.pw.toml"
-hash = "4c00caba57fa2aa18ebf941fbe897ab444252f6baf816f5d1fea9430ac5b3779"
-metafile = true
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "164d9000bf1f25aafd1963f1b5d6000205a79ae960e3cc89177ad20eced26b31"
 metafile = true
@@ -721,11 +635,6 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "b0a52e9ae1213ac58bc452fa09bf4f88ab2603d6368f707c94ac29276e39b2aa"
-metafile = true
-
-[[files]]
-file = "mods/villager-names.pw.toml"
-hash = "832504ebf46ef51908340d0a111333ebc437a2dde6f454830a0609ec122a6f5e"
 metafile = true
 
 [[files]]
@@ -811,7 +720,7 @@ hash = "2ed708c88bd2cac36ba9d0a94ddc0ff4eecd985f42bc65c21694267a1af12f7d"
 
 [[files]]
 file = "overrides/config/amendments-common.toml"
-hash = "c9b542746a0c38fd39775c621b09f13e70ce7b55e8bfb82093fd1ebc4140871f"
+hash = "c9712d9a1f7dbf2786d1b0d5f351b456e4c76528b4e9987c90cd21f48bfff78f"
 
 [[files]]
 file = "overrides/config/appleskin-client.toml"
@@ -890,6 +799,10 @@ file = "overrides/config/copycats-common.toml"
 hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
 
 [[files]]
+file = "overrides/config/copycats-server.toml"
+hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
+
+[[files]]
 file = "overrides/config/cosmeticarmorreworked-client.toml"
 hash = "98abc386a142611a852bb7f7166777b195ecc35f0be48b2287d257efccbe004c"
 
@@ -918,6 +831,10 @@ file = "overrides/config/create_connected-common.toml"
 hash = "12bf1303e43aa7d076e09dfd281b0549872275e1fed89dad2a58225fa6124a4e"
 
 [[files]]
+file = "overrides/config/create_connected-server.toml"
+hash = "c2d7ef373f19e1912416f250252e986cd8d8f2056cb6b24bd0dcb5daf67f4699"
+
+[[files]]
 file = "overrides/config/create_dragons_plus-client.toml"
 hash = "a3888f58a510d8e33e3caf8444af00c726f895f75f1d85f5b99c20c6ca420290"
 
@@ -942,8 +859,16 @@ file = "overrides/config/create_hypertube-client.toml"
 hash = "25400eab973ba2d5cee6b6beaba0eecb75d597843124c2596ea7f4d0d2622749"
 
 [[files]]
+file = "overrides/config/create_hypertube-server.toml"
+hash = "ed9e26030aaa0f5cbb819118b618b185735df7c451be147c67a14d4c799bdbc1"
+
+[[files]]
 file = "overrides/config/createbigcannons-client.toml"
 hash = "dd1fabf921549ecaf23fc0cdb5eee8ab766c963671693dc29e5402bb2b4baf83"
+
+[[files]]
+file = "overrides/config/createbigcannons-server.toml"
+hash = "ffa79d44e4dc4407cebb841058b5fde911566fd5c0d0b8869f1374e254eb98ca"
 
 [[files]]
 file = "overrides/config/createcasing-common.toml"
@@ -1002,8 +927,12 @@ file = "overrides/config/easy_villagers-client.toml"
 hash = "ffbf93504e499a448f256d3b4d6ece4d784f5e3cf2b6ae8dbc460681e3185c2f"
 
 [[files]]
-file = "overrides/config/easy_villagers-server.toml"
+file = "overrides/config/easy_villagers-server-1.toml.bak"
 hash = "33b3ad83de4af27a9dafc4cb7e1a08e58da9ed138c16678d305cd4053f82084f"
+
+[[files]]
+file = "overrides/config/easy_villagers-server.toml"
+hash = "0b105ac9c24eaf2b5493d09837158b8ac3d72c35b23f5fcb9d5fdb6d67390b9e"
 
 [[files]]
 file = "overrides/config/enchdesc.json"
@@ -1067,7 +996,7 @@ hash = "67dadd3f0812bc01a0b0ca6fb204961512ce1332e97fe42dba2cb57813a496ef"
 
 [[files]]
 file = "overrides/config/ftbultimine-server.snbt"
-hash = "91cd49539494960b575e2640061961e159b7fdf1cdb4b850830a3e5f3e2ac794"
+hash = "147a38645eda41c75721eb6825585f7af00b19bd3ae7e948779635747b8840e9"
 
 [[files]]
 file = "overrides/config/functionalstorage/functionalstorage-client.toml"
@@ -1155,7 +1084,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "overrides/config/jei/ingredient-list-mod-sort-order.ini"
-hash = "58c8db6ae310b92db65df2f7ecf1f987840d286b8c11a8ba26933e09ff49eb46"
+hash = "62016985dce9e66945f92dc3dfc3d0e493c83f166c7f006bc883762e4ed08736"
 
 [[files]]
 file = "overrides/config/jei/ingredient-list-type-sort-order.ini"
@@ -1179,7 +1108,7 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
 file = "overrides/config/jei/recipe-category-sort-order.ini"
-hash = "12314037ac4b9359bae092cc6d3a4cb15a59322f24aa3f566dbb93bf67102aaf"
+hash = "36222700dfa8c868ea63127094542e76c81149b8d6fce533989936966c164b11"
 
 [[files]]
 file = "overrides/config/jei/world/local/New_World/lookupHistory.json"
@@ -1247,7 +1176,7 @@ hash = "5a6948c2b7927921cd3cab28446f301a24cf4db168533474d20dac154ad18167"
 
 [[files]]
 file = "overrides/config/moonlight-common.toml"
-hash = "ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea"
+hash = "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
 
 [[files]]
 file = "overrides/config/musicnotification.json"
@@ -1310,6 +1239,10 @@ file = "overrides/config/rightclickharvest.json5"
 hash = "6eb5169563472ae96184c94e9f42ff7d76fdba403ed3190ffb308e817ea0a21e"
 
 [[files]]
+file = "overrides/config/ritchiesprojectilelib-server.toml"
+hash = "793c05c7f9975032f536f7b9702a4f892b8beb31e641af1f12ee9c96aed4d013"
+
+[[files]]
 file = "overrides/config/sable-client.toml"
 hash = "1a4676e6136f117f2587d32991720455c0a1b204498ebc7eb21e83f5912df222"
 
@@ -1319,7 +1252,7 @@ hash = "9a1ba0617b4544eb8bded0995de05f26837fdc53215453ccc58012b468ff9dde"
 
 [[files]]
 file = "overrides/config/sawmill-common.toml"
-hash = "99273470773331b95dc013da80e1ead50eaf6cd24566da63880f907a940847c1"
+hash = "6d42c3a82a1e6663badf4408764a03a5ff8a99052dae0a8dfdfc4fb5ad73175d"
 
 [[files]]
 file = "overrides/config/sdrp-common.json5"
@@ -1327,7 +1260,7 @@ hash = "eeb1bd8d1aeac5487dbca1727664fcff8469258d5038f12fd64d350148c7c06f"
 
 [[files]]
 file = "overrides/config/shouldersurfing-client.toml"
-hash = "2983a6d80420c0864c8498e481f91d647d25a24c529bef6ed0aee89a3306f0fb"
+hash = "2025f90b7ab740f81ece9336cf274ab9e5eea0d1adeb76868d43673f56e59941"
 
 [[files]]
 file = "overrides/config/simple_weather-client.toml"
