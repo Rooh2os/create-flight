@@ -1,4 +1,8 @@
 # Create Flight
+
+Version: 1.1.3
+
+## Description
 A group of mods to play around with the recently published Create Aeronautics. Along with this there's building tools, Ultimine features, and backported vanilla features.
 
 ## Dev build instructions

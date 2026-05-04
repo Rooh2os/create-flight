@@ -6,7 +6,7 @@ hash = "9b9dd4f49af8d72239e61679e539fe11f08fd87e166129455aa7d9c5580d2a8e"
 
 [[files]]
 file = "README.md"
-hash = "37302ba2d83d740f6245123fd233ba85466ae46c67a08d1706bc97c4164e7f07"
+hash = "4e72463411f04f84bb8f630ac16ba62f8480c614aba3cf843d5b563348b34305"
 
 [[files]]
 file = "mods/adorable-hamster-pets.pw.toml"
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
-hash = "0ad37c7e88d98bb14dda3b148c0c263ea807ebecd729dcdb7f2c307a5e6cd3fa"
+hash = "b8761149eda05aa09fa90b3a8e0cf797faba43c08e42557cafcd55baa2c20cb3"
 metafile = true
 
 [[files]]
@@ -610,12 +610,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "effdc334aba555fda2ab6fd81f2524f1a69d561c60b7c638c58ccb174ff1c90e"
+hash = "dcce7f37c9f3da5854b4124285bf9cbfa9e4860de6ca1771e70e89c1b7601f1e"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "29040c66fab3ecabeaf5ee7afe4532dac3c019db87194a07f68352a77b917f3b"
+hash = "8a2c8a56253773cd8af37805f0fc12b8cfbfd659270a551003b1676396c2fa55"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f602ad6cff0ba4829f3f1b0cfe78d97db1abf75e38e3ac667658df6c887af24b"
+hash = "9e08f657c7848e0d35504e62657907248c0741df82f2d52b0222da79dc0fbe20"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1e8d40843ea7e20db4848921adbb9bc0dc3fdb5da351b9afa6a52d87509d16e3"
+hash = "585973633ef03b8eb01b4bdeaedd21c7f2f5d588d1f5957941fab771852488a3"
 metafile = true
 
 [[files]]
