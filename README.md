@@ -1,6 +1,7 @@
 # Create Flight
+A group of mods to play around with the recently published Create Aeronautics. Along with this there's building tools, Ultimine features, and backported vanilla features.
 
-Mods:
+## Mods:
 - [3d-Skin-Layers [1.11.1]](https://www.curseforge.com/projects/521480) by tr7zw
 - [Advancement Plaques [1.6.8]](https://www.curseforge.com/projects/499826) by Grend
 - [Amendments [1.21-2.0.15]](https://www.curseforge.com/projects/896746) by MehVahdJukaar, Plantkillable
@@ -36,7 +37,7 @@ Mods:
 - [Create Hypertube [0.4.0-COMPAT]](https://www.curseforge.com/projects/1281336) by Rok
 - [Create Liquid Fuel [2.1.1-1.21.1]](https://www.curseforge.com/projects/840734) by Forsteri
 - [Create More Chocolate [3.6.0-1.21.1]](https://www.curseforge.com/projects/1006891) by DrEnough
-- [Create More: Package Couriers [2.2.3]](https://www.curseforge.com/projects/1319223) by Krei
+- [Create More: Package Couriers [1.6.0]](https://www.curseforge.com/projects/1319223) by Krei
 - [Create More: Pipe Bombs in Packages [2.1.0]](https://www.curseforge.com/projects/1304635) by Krei
 - [Create Slice & Dice [4.2.4]](https://www.curseforge.com/projects/659674) by possible_triangle
 - [Create: Connected [1.1.14-mc1.21.1]](https://www.curseforge.com/projects/947914) by Lysine
@@ -88,7 +89,7 @@ Mods:
 - [Measurements [3.0.3]](https://www.curseforge.com/projects/478559) by Mrbysco
 - [Model Gap Fix [1.21-1.10]](https://www.curseforge.com/projects/676136) by MehVahdJukaar
 - [ModernFix [5.27.4+mc1.21.1]](https://www.curseforge.com/projects/790626) by embeddedt
-- [Moonlight Lib [1.21.1-3.0.1]](https://www.curseforge.com/projects/499980) by MehVahdJukaar
+- [Moonlight Lib [1.21.1-3.0.3]](https://www.curseforge.com/projects/499980) by MehVahdJukaar
 - [Mouse Tweaks [2.26.1]](https://www.curseforge.com/projects/60089) by Ivan Molodetskikh (YaLTeR)
 - [Nature's Compass [1.21.1-3.4.0-neoforge]](https://www.curseforge.com/projects/252848) by ChaosTheDude
 - [No Trample [1.21.1-1.0.1]](https://www.curseforge.com/projects/914018) by LobsterJonn
@@ -113,13 +114,13 @@ Mods:
 - [Sodium [0.6.13+mc1.21.1]](https://www.curseforge.com/projects/394468) by JellySquid (jellysquid3), IMS212
 - [Sodium Dynamic Lights [1.0.9]](https://www.curseforge.com/projects/551736) by toni, LambdAurora
 - [Sodium Options API [1.0.10]](https://www.curseforge.com/projects/1103431) by toni
-- [Sophisticated Backpacks [3.25.43]](https://www.curseforge.com/projects/422301) by P3pp3rF1y, Ridanisaurus
-- [Sophisticated Core [1.4.34]](https://www.curseforge.com/projects/618298) by P3pp3rF1y
+- [Sophisticated Backpacks [3.25.44]](https://www.curseforge.com/projects/422301) by P3pp3rF1y, Ridanisaurus
+- [Sophisticated Core [1.4.35]](https://www.curseforge.com/projects/618298) by P3pp3rF1y
 - [Sound Physics Remastered [1.21.1-1.5.1]](https://www.curseforge.com/projects/535489) by Sonic Ether, vlad2305m, Max Henkel
 - [Structure Layout Optimizer [1.0.12]](https://www.curseforge.com/projects/1087831) by TelepathicGrunt
 - [SuperMartijn642's Config Library [1.1.8]](https://www.curseforge.com/projects/438332) by SuperMartijn642
 - [SuperMartijn642's Core Lib [1.1.21]](https://www.curseforge.com/projects/454372) by SuperMartijn642
-- [Supplementaries [1.21.1-3.6.0]](https://www.curseforge.com/projects/412082) by MehVahdJukaar, Plantkillable
+- [Supplementaries [1.21.1-3.6.1]](https://www.curseforge.com/projects/412082) by MehVahdJukaar, Plantkillable
 - [Titanium [4.0.43]](https://www.curseforge.com/projects/287342) by TheCodedOne, Buuz135
 - [Torchmaster [21.1.9]](https://www.curseforge.com/projects/254268) by Xalcon
 - [Trade Cycling [1.21.1-1.0.18]](https://www.curseforge.com/projects/570431) by Max Henkel

@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"easy_villagers:trader","components":{}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"easy_villagers:auto_trader","components":{}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"easy_villagers:breeder","components":{}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"easy_villagers:converter","components":{}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"easy_villagers:iron_farm","components":{}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
