@@ -17,6 +17,7 @@ A group of mods to play around with the recently published Create Aeronautics. A
 
 ## Mods:
 - [3d-Skin-Layers [1.11.1]](https://www.curseforge.com/projects/521480) by tr7zw
+- [Adorable Hamster Pets [3.6.0-1.21.1+neoforge]]() by The Scarlet Fox
 - [Advancement Plaques [1.6.8]](https://www.curseforge.com/projects/499826) by Grend
 - [Amendments [1.21-2.0.15]](https://www.curseforge.com/projects/896746) by MehVahdJukaar, Plantkillable
 - [AppleSkin [3.0.9+mc1.21]](https://www.curseforge.com/projects/248787) by squeek
@@ -26,6 +27,9 @@ A group of mods to play around with the recently published Create Aeronautics. A
 - [Balm [21.0.56]](https://www.curseforge.com/projects/531761) by BlayTheNinth
 - [Better Compatibility Checker [21.1.8]](https://www.curseforge.com/projects/551894) by Gaz(Gaz492)
 - [BetterF3 [11.0.3]](https://www.curseforge.com/projects/401648) by TreyRuffy and cominixo
+- [Bookshelf [21.1.81]](https://www.curseforge.com/projects/228525) by Darkhax
+- [BotanyPots [21.1.41]](https://www.curseforge.com/projects/353928) by Darkhax
+- [Bridging Mod [2.6.2+1.21.1]](https://www.curseforge.com/projects/533942) by CG360
 - [Building Gadgets 2 [1.3.9]](https://www.curseforge.com/projects/298187) by Direwolf20
 - [Charging Gadgets [1.14.1]](https://www.curseforge.com/projects/399757) by Direwolf20, ErrorMikey
 - [Chat Heads [0.15.1]](https://www.curseforge.com/projects/407206) by dzwdz, Fourmisain
@@ -36,7 +40,9 @@ A group of mods to play around with the recently published Create Aeronautics. A
 - [CodeChicken Lib [4.6.1.526]](https://www.curseforge.com/projects/242818) by ChickenBones, covers1624
 - [Collective [8.22]](https://www.curseforge.com/projects/342584) by Rick South
 - [Comforts [9.0.5+1.21.1]](https://www.curseforge.com/projects/276951) by Illusive Soulworks
+- [Configured [2.6.3]](https://www.curseforge.com/projects/457570) by MrCrayfish
 - [Connectivity Mod [7.6]](https://www.curseforge.com/projects/470193) by Someaddon
+- [Constant Music [1.0.6]](https://www.curseforge.com/projects/949032) by Odin Okland
 - [Construction Sticks [1.3.0]](https://www.curseforge.com/projects/1156098) by Mrbysco, ShyNieke
 - [Controlling [19.0.5]](https://www.curseforge.com/projects/250398) by Jaredlll08
 - [CoroUtil [1.21.0-1.3.9]](https://www.curseforge.com/projects/237749) by Corosus
@@ -65,8 +71,10 @@ A group of mods to play around with the recently published Create Aeronautics. A
 - [Curios API [9.5.1+1.21.1]](https://www.curseforge.com/projects/309927) by C4
 - [Daily Dad [2.0.1]](https://www.curseforge.com/projects/559851) by Mrbysco
 - [Design n' Decor [2.1.0]](https://www.curseforge.com/projects/923238) by LopyLuna, DrMangoTea
+- [Dynamic FPS [3.11.4]](https://www.curseforge.com/projects/335493) by juliand665 & LostLuma
 - [Dynamic view distance [4.0]](https://www.curseforge.com/projects/366140) by Someaddon
 - [Easy Villagers [1.21.1-1.1.41]](https://www.curseforge.com/projects/400514) by Max Henkel
+- [EnchantmentDescriptions [21.1.9]](https://www.curseforge.com/projects/250419) by Darkhax
 - [EnderStorage [2.13.0.191]](https://www.curseforge.com/projects/245174) by ChickenBones, covers1624
 - [EntityCulling [1.10.1]](https://www.curseforge.com/projects/448233) by tr7zw
 - [Extreme Sound Muffler [3.56]](https://www.curseforge.com/projects/363363) by LeoBeliik
@@ -83,6 +91,7 @@ A group of mods to play around with the recently published Create Aeronautics. A
 - [Full Brightness Toggle [4.4]](https://www.curseforge.com/projects/391656) by Rick South
 - [Functional Storage [1.21.1-1.5.5]](https://www.curseforge.com/projects/556861) by Buuz135, Rid
 - [Fusion [1.2.12]](https://www.curseforge.com/projects/854949) by SuperMartijn642
+- [Fzzy Config [0.7.6+1.21+neoforge]](https://www.curseforge.com/projects/1005914) by fzzyhmstrs
 - [GeckoLib 4 [4.8.4]](https://www.curseforge.com/projects/388172) by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
 - [Gravestone Curios Compatibility [4.0.2]](https://www.curseforge.com/projects/1139062) by Leclowndu93150
 - [Gravestone Mod [1.21.1-1.0.35]](https://www.curseforge.com/projects/238551) by Max Henkel
@@ -92,6 +101,8 @@ A group of mods to play around with the recently published Create Aeronautics. A
 - [Inventory Essentials [21.1.15]](https://www.curseforge.com/projects/368825) by BlayTheNinth
 - [Inventory Tweaks Refoxed [1.21.1-1.3.2]](https://www.curseforge.com/projects/976858) by LobsterJonn (Current maintainer)
 - [Jade [15.10.5+neoforge]](https://www.curseforge.com/projects/324717) by Snownee
+- [Jade Addons [6.1.0+neoforge]](https://www.curseforge.com/projects/583345) by Snownee
+- [JamLib [1.3.6+1.21.1]](https://www.curseforge.com/projects/623764) by Jamalam
 - [Just Enough Items [19.27.0.340]](https://www.curseforge.com/projects/238222) by mezz
 - [Just Enough Professions (JEP) [4.0.5]](https://www.curseforge.com/projects/417645) by Mrbysco, ShyNieke
 - [Just Zoom [2.1.0]](https://www.curseforge.com/projects/561885) by Keksuccino
@@ -105,12 +116,15 @@ A group of mods to play around with the recently published Create Aeronautics. A
 - [ModernFix [5.27.4+mc1.21.1]](https://www.curseforge.com/projects/790626) by embeddedt
 - [Moonlight Lib [1.21.1-3.0.3]](https://www.curseforge.com/projects/499980) by MehVahdJukaar
 - [Mouse Tweaks [2.26.1]](https://www.curseforge.com/projects/60089) by Ivan Molodetskikh (YaLTeR)
+- [MusicNotification [3.0.0]](https://www.curseforge.com/projects/817206) by KosmoMoustache
 - [Nature's Compass [1.21.1-3.4.0-neoforge]](https://www.curseforge.com/projects/252848) by ChaosTheDude
 - [No Trample [1.21.1-1.0.1]](https://www.curseforge.com/projects/914018) by LobsterJonn
 - [NotEnoughAnimations [1.12.2]](https://modrinth.com/mod/MPCX6s5C) by tr7zw
 - [Particular [1.1.7]](https://www.curseforge.com/projects/1219053) by 
+- [Patchouli [1.21.1-93-NEOFORGE]](https://www.curseforge.com/projects/306770) by Vazkii
 - [Placebo [9.9.1]](https://www.curseforge.com/projects/283644) by Shadows_of_Fire
 - [Platform [1.3]](https://www.curseforge.com/projects/997634) by ItsBlackGear
+- [PrickleMC [21.1.11]](https://www.curseforge.com/projects/1023259) by Darkhax
 - [Puzzles Lib [21.1.39]](https://www.curseforge.com/projects/495476) by Fuzs
 - [Rechiseled [1.2.4]](https://www.curseforge.com/projects/558998) by SuperMartijn642
 - [Rechiseled: Create [1.1.0]](https://www.curseforge.com/projects/888624) by SuperMartijn642
@@ -118,10 +132,12 @@ A group of mods to play around with the recently published Create Aeronautics. A
 - [Resourceful Lib [3.0.12]](https://www.curseforge.com/projects/570073) by ThatGravyBoat, Epic_Oreo
 - [Resourcefulconfig [3.0.11]](https://www.curseforge.com/projects/714059) by 
 - [Rhino [2101.2.7-build.81]](https://www.curseforge.com/projects/416294) by latvian.dev, Mozilla
+- [Right Click Harvest [4.6.1+1.21.1]](https://www.curseforge.com/projects/452834) by Jamalam
 - [Ritchie's Projectile Library [2.1.2]](https://www.curseforge.com/projects/1279407) by rbasamoyai
 - [Sable [1.2.2]](https://www.curseforge.com/projects/1312371) by RyanHCode
 - [Searchables [1.0.2]](https://www.curseforge.com/projects/858542) by Jaredlll08
 - [Shoulder Surfing Reloaded [1.21.1-4.22.7]](https://www.curseforge.com/projects/243190) by Exopandora
+- [Simple Discord Rich Presence [88.0.1-build.54+mc1.21.1]](https://www.curseforge.com/projects/334853) by Sunekaer
 - [Simple Weather [1.0.13-hotfix]](https://www.curseforge.com/projects/983390) by Soaryn
 - [Simply Light [1.5.3]](https://www.curseforge.com/projects/300331) by Flanks255
 - [Smoothchunk mod [4.1]](https://www.curseforge.com/projects/582327) by Someaddon
@@ -136,12 +152,16 @@ A group of mods to play around with the recently published Create Aeronautics. A
 - [SuperMartijn642's Core Lib [1.1.21]](https://www.curseforge.com/projects/454372) by SuperMartijn642
 - [Supplementaries [1.21.1-3.6.1]](https://www.curseforge.com/projects/412082) by MehVahdJukaar, Plantkillable
 - [Titanium [4.0.43]](https://www.curseforge.com/projects/287342) by TheCodedOne, Buuz135
+- [Too Fast [0.4.3.6]](https://www.curseforge.com/projects/550678) by Noobanidus
 - [Torchmaster [21.1.9]](https://www.curseforge.com/projects/254268) by Xalcon
 - [Trade Cycling [1.21.1-1.0.18]](https://www.curseforge.com/projects/570431) by Max Henkel
 - [TrashSlot [21.1.10]](https://www.curseforge.com/projects/235577) by BlayTheNinth
 - [Universal Sawmill [1.21-1.7.1]](https://www.curseforge.com/projects/964817) by MehVahdJukaar
 - [VanillaBackport [1.1.6.3]](https://www.curseforge.com/projects/417430) by BlackGear
+- [Villager Names [8.4]](https://www.curseforge.com/projects/345854) by Rick South
+- [Visual Workbench [21.1.1]](https://www.curseforge.com/projects/500273) by Fuzs
 - [What Are They Up To [1.21.0-1.2.7]](https://www.curseforge.com/projects/945479) by Corosus
 - [Xaero's Minimap [25.3.10]](https://www.curseforge.com/projects/263420) by xaero96
 - [Xaero's World Map [1.40.11]](https://www.curseforge.com/projects/317780) by xaero96
+- [YetAnotherConfigLib [3.8.2+1.21.1-neoforge]](https://www.curseforge.com/projects/667299) by isXander
 - [chunksending mod [2.9]](https://www.curseforge.com/projects/831663) by Someaddon

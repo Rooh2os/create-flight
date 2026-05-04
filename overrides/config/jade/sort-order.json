@@ -1,4 +1,8 @@
 {
+  "adorablehamsterpets:hamster_bed_info": null,
+  "adorablehamsterpets:hamster_debug_info": null,
+  "adorablehamsterpets:hamster_genetics": null,
+  "adorablehamsterpets:wild_bush_tooltips": null,
   "balm:jade": null,
   "easy_villagers:breeder": null,
   "easy_villagers:converter": null,
@@ -32,6 +36,7 @@
   "jadeaddons.create:package": null,
   "jadeaddons.create:placard": null,
   "jadeaddons.create:table_cloth": null,
+  "jadeaddons.lootr:info": null,
   "jadeaddons.lootr:inventory": null,
   "minecraft:animal_owner": null,
   "minecraft:armor_stand": null,
