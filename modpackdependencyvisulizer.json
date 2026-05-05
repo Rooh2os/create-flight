@@ -1,0 +1,1221 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "Advancement Plaques",
+      "label": "Advancement Plaques",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Iceberg",
+      "label": "Iceberg",
+      "group": "end",
+      "checked": true,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Athena",
+      "label": "Athena",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "AppleSkin",
+      "label": "AppleSkin",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Architectury",
+      "label": "Architectury",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "BaguetteLib",
+      "label": "BaguetteLib",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Balm",
+      "label": "Balm",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Charging Gadgets",
+      "label": "Charging Gadgets",
+      "group": "orphan",
+      "checked": false,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Chat Heads",
+      "label": "Chat Heads",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "chunksending mod",
+      "label": "chunksending mod",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Cupboard mod",
+      "label": "Cupboard mod",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Clumps",
+      "label": "Clumps",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Cobblegen Galore",
+      "label": "Cobblegen Galore",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Connectivity Mod",
+      "label": "Connectivity Mod",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Controlling",
+      "label": "Controlling",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Searchables",
+      "label": "Searchables",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "CosmeticArmorReworked",
+      "label": "CosmeticArmorReworked",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "BetterF3",
+      "label": "BetterF3",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Freecam",
+      "label": "Freecam",
+      "group": "end",
+      "checked": true,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "CoroUtil",
+      "label": "CoroUtil",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Create Hypertube",
+      "label": "Create Hypertube",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Create",
+      "label": "Create",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "CreateBetterFps",
+      "label": "CreateBetterFps",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Sodium",
+      "label": "Sodium",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Create: Dragons Plus",
+      "label": "Create: Dragons Plus",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Create Ender Storage",
+      "label": "Create Ender Storage",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "EnderStorage",
+      "label": "EnderStorage",
+      "group": "both",
+      "checked": false,
+      "color": "#ff8800"
+    },
+    {
+      "id": "Create Liquid Fuel",
+      "label": "Create Liquid Fuel",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Dynamic view distance",
+      "label": "Dynamic view distance",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Curios API",
+      "label": "Curios API",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Dynamic FPS",
+      "label": "Dynamic FPS",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Extreme Sound Muffler",
+      "label": "Extreme Sound Muffler",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Comforts",
+      "label": "Comforts",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Fast IP Ping",
+      "label": "Fast IP Ping",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Fast Suite",
+      "label": "Fast Suite",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Placebo",
+      "label": "Placebo",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Fireproof Boats",
+      "label": "Fireproof Boats",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Ferrite Core",
+      "label": "Ferrite Core",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "FTB Ultimine",
+      "label": "FTB Ultimine",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "FTB Library",
+      "label": "FTB Library",
+      "group": "both",
+      "checked": false,
+      "color": "#ff8800"
+    },
+    {
+      "id": "Easy Villagers",
+      "label": "Easy Villagers",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "GeckoLib 4",
+      "label": "GeckoLib 4",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "FTB Essentials",
+      "label": "FTB Essentials",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Fusion",
+      "label": "Fusion",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Gravestone Mod",
+      "label": "Gravestone Mod",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Gravestone Curios Compatibility",
+      "label": "Gravestone Curios Compatibility",
+      "group": "start",
+      "checked": true,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Inventory Essentials",
+      "label": "Inventory Essentials",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "ImmediatelyFast",
+      "label": "ImmediatelyFast",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Inventory Tweaks Refoxed",
+      "label": "Inventory Tweaks Refoxed",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Jade",
+      "label": "Jade",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Just Zoom",
+      "label": "Just Zoom",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Konkrete",
+      "label": "Konkrete",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Just Enough Professions (JEP)",
+      "label": "Just Enough Professions (JEP)",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Just Enough Items",
+      "label": "Just Enough Items",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "JamLib",
+      "label": "JamLib",
+      "group": "both",
+      "checked": false,
+      "color": "#ff8800"
+    },
+    {
+      "id": "Jade Addons",
+      "label": "Jade Addons",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Measurements",
+      "label": "Measurements",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "ModernFix",
+      "label": "ModernFix",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Mouse Tweaks",
+      "label": "Mouse Tweaks",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Model Gap Fix",
+      "label": "Model Gap Fix",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "MusicNotification",
+      "label": "MusicNotification",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Natures Compass",
+      "label": "Natures Compass",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Particular",
+      "label": "Particular",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Puzzles Lib",
+      "label": "Puzzles Lib",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Platform",
+      "label": "Platform",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "No Trample",
+      "label": "No Trample",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Reeses Sodium Options",
+      "label": "Reeses Sodium Options",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Ritchies Projectile Library",
+      "label": "Ritchies Projectile Library",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Simple Weather",
+      "label": "Simple Weather",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Rechiseled: Create",
+      "label": "Rechiseled: Create",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "SuperMartijn642s Core Lib",
+      "label": "SuperMartijn642s Core Lib",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Rechiseled",
+      "label": "Rechiseled",
+      "group": "both",
+      "checked": false,
+      "color": "#ff8800"
+    },
+    {
+      "id": "Simple Discord Rich Presence",
+      "label": "Simple Discord Rich Presence",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Universal Sawmill",
+      "label": "Universal Sawmill",
+      "group": "start",
+      "checked": true,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Moonlight Lib",
+      "label": "Moonlight Lib",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Shoulder Surfing Reloaded",
+      "label": "Shoulder Surfing Reloaded",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Create Slice & Dice",
+      "label": "Create Slice & Dice",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Smoothchunk mod",
+      "label": "Smoothchunk mod",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Sound Physics Remastered",
+      "label": "Sound Physics Remastered",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "SuperMartijn642s Config Library",
+      "label": "SuperMartijn642s Config Library",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Structure Layout Optimizer",
+      "label": "Structure Layout Optimizer",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Torchmaster",
+      "label": "Torchmaster",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Too Fast",
+      "label": "Too Fast",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "TrashSlot",
+      "label": "TrashSlot",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Visual Workbench",
+      "label": "Visual Workbench",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Construction Sticks",
+      "label": "Construction Sticks",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "CodeChicken Lib",
+      "label": "CodeChicken Lib",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Sophisticated Backpacks",
+      "label": "Sophisticated Backpacks",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Sophisticated Core",
+      "label": "Sophisticated Core",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Right Click Harvest",
+      "label": "Right Click Harvest",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Configured",
+      "label": "Configured",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Simply Light",
+      "label": "Simply Light",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Resourcefulconfig",
+      "label": "Resourcefulconfig",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "What Are They Up To",
+      "label": "What Are They Up To",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Resourceful Lib",
+      "label": "Resourceful Lib",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Amendments",
+      "label": "Amendments",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Factory Blocks",
+      "label": "Factory Blocks",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Titanium",
+      "label": "Titanium",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Create: Copycats+",
+      "label": "Create: Copycats+",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "YetAnotherConfigLib",
+      "label": "YetAnotherConfigLib",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Functional Storage",
+      "label": "Functional Storage",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Lootr",
+      "label": "Lootr",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Cloth Config v15 API",
+      "label": "Cloth Config v15 API",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Creeper Overhaul",
+      "label": "Creeper Overhaul",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Xaeros World Map",
+      "label": "Xaeros World Map",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Xaeros Minimap",
+      "label": "Xaeros Minimap",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Create Encased",
+      "label": "Create Encased",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Create Deco",
+      "label": "Create Deco",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Create Big Cannons",
+      "label": "Create Big Cannons",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Design n Decor",
+      "label": "Design n Decor",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Farmers Delight",
+      "label": "Farmers Delight",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "KubeJS",
+      "label": "KubeJS",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Rhino",
+      "label": "Rhino",
+      "group": "end",
+      "checked": false,
+      "color": "#02a0ff"
+    },
+    {
+      "id": "Building Gadgets 2",
+      "label": "Building Gadgets 2",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Bridging Mod",
+      "label": "Bridging Mod",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Create: Connected",
+      "label": "Create: Connected",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Create: Ultimate Factory",
+      "label": "Create: Ultimate Factory",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Limited Chunkloading",
+      "label": "Limited Chunkloading",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Sodium Dynamic Lights",
+      "label": "Sodium Dynamic Lights",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Sodium Options API",
+      "label": "Sodium Options API",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Constant Music",
+      "label": "Constant Music",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "EntityCulling",
+      "label": "EntityCulling",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "3d-Skin-Layers",
+      "label": "3d-Skin-Layers",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "NotEnoughAnimations",
+      "label": "NotEnoughAnimations",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Sable",
+      "label": "Sable",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Supplementaries",
+      "label": "Supplementaries",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Chipped",
+      "label": "Chipped",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "VanillaBackport",
+      "label": "VanillaBackport",
+      "group": "start",
+      "checked": false,
+      "color": "#ffd008"
+    },
+    {
+      "id": "Kotlin For Forge",
+      "label": "Kotlin For Forge",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    },
+    {
+      "id": "Create Aeronautics",
+      "label": "Create Aeronautics",
+      "group": "orphan",
+      "checked": true,
+      "color": "#ec240e"
+    }
+  ],
+  "edges": [
+    {
+      "from": "Advancement Plaques",
+      "to": "Iceberg"
+    },
+    {
+      "from": "chunksending mod",
+      "to": "Cupboard mod"
+    },
+    {
+      "from": "Connectivity Mod",
+      "to": "Cupboard mod"
+    },
+    {
+      "from": "Controlling",
+      "to": "Searchables"
+    },
+    {
+      "from": "Create Hypertube",
+      "to": "Create"
+    },
+    {
+      "from": "CreateBetterFps",
+      "to": "Sodium"
+    },
+    {
+      "from": "Create: Dragons Plus",
+      "to": "Create"
+    },
+    {
+      "from": "Create Ender Storage",
+      "to": "Create"
+    },
+    {
+      "from": "Create Ender Storage",
+      "to": "EnderStorage"
+    },
+    {
+      "from": "Create Liquid Fuel",
+      "to": "Create"
+    },
+    {
+      "from": "Dynamic view distance",
+      "to": "Cupboard mod"
+    },
+    {
+      "from": "Fast Suite",
+      "to": "Placebo"
+    },
+    {
+      "from": "FTB Ultimine",
+      "to": "Architectury"
+    },
+    {
+      "from": "FTB Ultimine",
+      "to": "FTB Library"
+    },
+    {
+      "from": "FTB Essentials",
+      "to": "FTB Library"
+    },
+    {
+      "from": "Gravestone Curios Compatibility",
+      "to": "Gravestone Mod"
+    },
+    {
+      "from": "Gravestone Curios Compatibility",
+      "to": "Curios API"
+    },
+    {
+      "from": "Gravestone Curios Compatibility",
+      "to": "BaguetteLib"
+    },
+    {
+      "from": "Inventory Essentials",
+      "to": "Balm"
+    },
+    {
+      "from": "Just Zoom",
+      "to": "Konkrete"
+    },
+    {
+      "from": "Just Enough Professions (JEP)",
+      "to": "Just Enough Items"
+    },
+    {
+      "from": "JamLib",
+      "to": "Architectury"
+    },
+    {
+      "from": "Jade Addons",
+      "to": "Jade"
+    },
+    {
+      "from": "Reeses Sodium Options",
+      "to": "Sodium"
+    },
+    {
+      "from": "Rechiseled: Create",
+      "to": "SuperMartijn642s Core Lib"
+    },
+    {
+      "from": "Rechiseled: Create",
+      "to": "Rechiseled"
+    },
+    {
+      "from": "Rechiseled: Create",
+      "to": "Create"
+    },
+    {
+      "from": "Simple Discord Rich Presence",
+      "to": "Architectury"
+    },
+    {
+      "from": "Universal Sawmill",
+      "to": "Moonlight Lib"
+    },
+    {
+      "from": "TrashSlot",
+      "to": "Balm"
+    },
+    {
+      "from": "Visual Workbench",
+      "to": "Puzzles Lib"
+    },
+    {
+      "from": "EnderStorage",
+      "to": "CodeChicken Lib"
+    },
+    {
+      "from": "Sophisticated Backpacks",
+      "to": "Sophisticated Core"
+    },
+    {
+      "from": "Right Click Harvest",
+      "to": "Architectury"
+    },
+    {
+      "from": "Right Click Harvest",
+      "to": "JamLib"
+    },
+    {
+      "from": "What Are They Up To",
+      "to": "CoroUtil"
+    },
+    {
+      "from": "Amendments",
+      "to": "Moonlight Lib"
+    },
+    {
+      "from": "Factory Blocks",
+      "to": "Architectury"
+    },
+    {
+      "from": "Create: Copycats+",
+      "to": "Create"
+    },
+    {
+      "from": "Functional Storage",
+      "to": "Titanium"
+    },
+    {
+      "from": "Creeper Overhaul",
+      "to": "GeckoLib 4"
+    },
+    {
+      "from": "Creeper Overhaul",
+      "to": "Resourcefulconfig"
+    },
+    {
+      "from": "FTB Library",
+      "to": "Architectury"
+    },
+    {
+      "from": "Xaeros World Map",
+      "to": "Xaeros Minimap"
+    },
+    {
+      "from": "Create Encased",
+      "to": "Create"
+    },
+    {
+      "from": "Create Deco",
+      "to": "Create"
+    },
+    {
+      "from": "Create Big Cannons",
+      "to": "Create"
+    },
+    {
+      "from": "Create Big Cannons",
+      "to": "Ritchies Projectile Library"
+    },
+    {
+      "from": "Design n Decor",
+      "to": "Create"
+    },
+    {
+      "from": "KubeJS",
+      "to": "Rhino"
+    },
+    {
+      "from": "Bridging Mod",
+      "to": "YetAnotherConfigLib"
+    },
+    {
+      "from": "Create: Connected",
+      "to": "Create"
+    },
+    {
+      "from": "Limited Chunkloading",
+      "to": "Cupboard mod"
+    },
+    {
+      "from": "Rechiseled",
+      "to": "SuperMartijn642s Core Lib"
+    },
+    {
+      "from": "Rechiseled",
+      "to": "SuperMartijn642s Config Library"
+    },
+    {
+      "from": "Rechiseled",
+      "to": "Fusion"
+    },
+    {
+      "from": "Supplementaries",
+      "to": "Moonlight Lib"
+    },
+    {
+      "from": "Chipped",
+      "to": "Resourceful Lib"
+    },
+    {
+      "from": "Chipped",
+      "to": "Athena"
+    },
+    {
+      "from": "VanillaBackport",
+      "to": "Platform"
+    },
+    {
+      "from": "Create Slice & Dice",
+      "to": "Create"
+    },
+    {
+      "from": "Create Aeronautics",
+      "to": "Create"
+    },
+    {
+      "from": "Create Aeronautics",
+      "to": "Sable"
+    },
+    {
+      "from": "Create Slice & Dice",
+      "to": "Kotlin For Forge"
+    },
+    {
+      "from": "CreateBetterFps",
+      "to": "Create"
+    },
+    {
+      "from": "Sodium Dynamic Lights",
+      "to": "Sodium"
+    },
+    {
+      "from": "Sound Physics Remastered",
+      "to": "Cloth Config v15 API"
+    },
+    {
+      "from": "Chat Heads",
+      "to": "Cloth Config v15 API"
+    },
+    {
+      "from": "Dynamic FPS",
+      "to": "Cloth Config v15 API"
+    },
+    {
+      "from": "Freecam",
+      "to": "Cloth Config v15 API"
+    },
+    {
+      "from": "Simple Discord Rich Presence",
+      "to": "Cloth Config v15 API"
+    },
+    {
+      "from": "Sodium Dynamic Lights",
+      "to": "Sodium Options API"
+    },
+    {
+      "from": "Reeses Sodium Options",
+      "to": "Sodium Options API"
+    },
+    {
+      "from": "Sodium Options API",
+      "to": "Sodium"
+    },
+    {
+      "from": "Create: Ultimate Factory",
+      "to": "Create"
+    },
+    {
+      "from": "BetterF3",
+      "to": "Cloth Config v15 API"
+    }
+  ]
+}

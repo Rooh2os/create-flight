@@ -1,12 +1,12 @@
 name = "create-flight"
 author = "Poodie_Poo & Rooh2os"
-version = "1.1.0"
+version = "1.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "31f4688527d46b5d48020c8f1191a1837e0a252306547ec6d0eeabccc87d68e1"
+hash = "f746ff2e314debb655818a5e2f42411f3340483ae219f0cbf36590e10d43e9b9"
 
 [versions]
 minecraft = "1.21.1"
